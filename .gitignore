@@ -1,0 +1,8 @@
+part-1-code/out_augmented/
+*.zip
+*.safetensors
+*.bin
+part-2-code/checkpoints/
+*.pt
+*.zip
+*.bin
